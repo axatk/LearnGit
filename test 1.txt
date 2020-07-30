@@ -1,1 +1,3 @@
 change is created in test 1 file for testing purpose
+Hello I'm going to do a merge conflict
+i have done the changes in the local file before pull from the remote
