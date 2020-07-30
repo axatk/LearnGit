@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-change is created in test 1 file for testing purpose
-Hello I'm going to do a merge conflict
-I have done the changes in the local file before pull from the remote
-now I have again changed in the local branch and commiting
